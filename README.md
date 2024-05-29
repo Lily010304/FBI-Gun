@@ -49,11 +49,14 @@ The data I've chosen comes from the FBI's National Instant Criminal Background C
 
 <a id='conclusions'></a>
 ## Conclusions
+* The state with the highest rate of overall criminal background checks is Kentucky.
+* The firearm of type long gun has the biggest values over the time.
+* The firearm of type long gun has the biggest values in each state.
+  
 ### -Research Limitations:
 * Limited Access to Information.
 * Missing Data.
   
-
 ### -Suggestions for Future Research:
 * Enhancing the collection of data : the NICS dataset may include more details about the data in the future.
 
