@@ -37,13 +37,13 @@ The data I've chosen comes from the FBI's National Instant Criminal Background C
 <a id='eda'></a>
 ## Exploratory Data Analysis
 #### Investigating the Relationship Between Criminal Background Checks and Each State:
-   Analyzed the rate of criminal background checks across different states.
+   * Analyzed the rate of criminal background checks across different states.
 
 #### Trend Analysis Over the Years:
-   Analyzed the trend of background checks for each type of firearm across all states over the years.
+   * Analyzed the trend of background checks for each type of firearm across all states over the years.
 
 #### State-Specific Trend Analysis
-   Investigated the trend of background checks for each type of firearm within individual states.
+   * Investigated the trend of background checks for each type of firearm within individual states.
 
 
 
