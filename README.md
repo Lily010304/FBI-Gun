@@ -14,7 +14,7 @@
 ## Introduction
 
 ### Dataset Description 
-    The data I've chosen comes from the FBI's National Instant Criminal Background Check         System (NICS). NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms or explosives. Cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase before they ring up the sale. In this way, people with a criminal background are less likely to purchase a gun.
+The data I've chosen comes from the FBI's National Instant Criminal Background Check System (NICS). NICS is used by Federal Firearms Licensees (FFLs) to instantly determine whether a prospective buyer is eligible to buy firearms or explosives. Cashiers call in a check to the FBI or to other designated agencies to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase before they ring up the sale. In this way, people with a criminal background are less likely to purchase a gun.
 * **The** [**NICS data**](https://docs.google.com/viewer?url=https%3A%2F%2Fd17h27t6h515a5.cloudfront.net%2Ftopher%2F2017%2FNovember%2F5a0a4db8_gun-data%2Fgun-data.xlsx)
 
 
